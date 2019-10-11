@@ -10,7 +10,7 @@ class Header extends Component {
         <div className="head">
             <h1>We Share,< br/> We Remember</h1>
             <div>
-              <div><a className="contact" href="https://drive.google.com/drive/folders/18v6YqmswT5o7Zv3UNFE3eiV5rUx5fhGd?usp=sharing">Contribute to Our Shared Album</a></div>
+              <div><a className="contact" href="https://drive.google.com/open?id=18v6YqmswT5o7Zv3UNFE3eiV5rUx5fhGd">Contribute to Our Shared Album</a></div>
             </div>
         </div>
        
